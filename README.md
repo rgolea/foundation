@@ -2,7 +2,8 @@ Foundation
 ==========
 Paso 1
 -----------
-Le hemos dado a bajar todo desde la pagina http://foundation.zurb.com/develop/download.html.
+Le hemos dado a bajar todo desde la pagina.
+http://foundation.zurb.com/develop/download.html.
 -----
 Paso 2
 -----
